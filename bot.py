@@ -13,7 +13,7 @@ import pdfplumber
 from docx import Document
 
 # ضع هنا التوكن الجديد الذي حصلت عليه من BotFather
-TOKEN 8617398935:AAGoDVPdrtdqnZBnn914Ah4zQdbr52ev2hA
+TOKEN = "8617398935:AAGoDVPdrtdqnZBnn914Ah4zQdbr52ev2hA"
 
 # رسالة الترحيب
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
