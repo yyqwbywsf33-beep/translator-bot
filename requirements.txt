@@ -1,0 +1,8 @@
+python-telegram-bot==21.10
+deep-translator
+pdfplumber
+python-docx
+pypdf
+openpyxl
+python-pptx
+python-dotenv
